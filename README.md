@@ -4,7 +4,7 @@ Basic optifine proxy server done in node.js powered by express framework
 (Im not the javascript guy so dont cry because of the dog code :))
 <h1>Why</h1>
 I was bored today so I've decided to code basic optifine proxy that allows you to set your own cape. This may be glitchy so if you want to use it you gotta make some changes. This should just give you a look how can your own proxy work :). <br>
-If ur very begginer I do not recommend you to use it. What knowledge do you need for it? Basically almost all you need to know is how to setup node.js project and install needed packages and how to use google (to make some fixes).
+If ur very begginer I do not recommend you to use it. What knowledge do you need for it? Basically almost all you need to know is how to setup node.js project and install needed packages and how to use google (to make some fixes) and how to run this on your server (for example vps).
 Code isn't commented for now cuz im a lazy ass :)
 
 <h2>The idea of optifine proxy</h2>
