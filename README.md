@@ -13,7 +13,7 @@ Optifine uses http requests to check what capes users have set, so basicly what 
 
 <h2>Maybe I will drop an update that will fix (maybe) all of the glitches if they occur (I'm pretty sure they do, cuz I didn't really test it, I mean I havent used it for more than 5 mins lol)</h2>
 
-Mysql database that I use is named capes and has one table - users and here is it's structure:
+Mysql database that I use is named capes and has one table - users and this is structure of it:
 ![image](https://user-images.githubusercontent.com/79219288/138592031-9e3b2987-1c3f-477d-828f-f977f0809682.png)
 
 Feel free to commit if you do something very juicy or even less juicy :)
